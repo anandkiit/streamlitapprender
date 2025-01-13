@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run app.py
+web: gunicorn -k uvicorn.workers.UvicornWorker app:app
