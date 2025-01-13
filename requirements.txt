@@ -5,5 +5,6 @@ streamlit-option-menu==0.3.2
 scikit-learn>=1.2.0  
 protobuf==3.20.1  
 wheel
-gunicorn
+uvicorn==0.23.0
+
 
