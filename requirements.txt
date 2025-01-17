@@ -4,11 +4,8 @@ streamlit==1.30.0
 streamlit-option-menu==0.3.2  
 scikit-learn>=1.2.0  
 protobuf==3.20.1  
-wheel
+wheel==0.38.4  
 
-fastapi==0.100.0
-uvicorn==0.22.0
+fastapi==0.100.0  
+uvicorn==0.22.0  
 gunicorn==20.1.0
-
-
-
